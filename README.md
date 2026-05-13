@@ -9,7 +9,7 @@ A categorized index of my projects, experiments, and programming work.
 # Terminal Programs
 
 - [Terminal-Art](https://github.com/yourusername/Terminal-Art)  
-  Collection of terminal art programs and experiments.
+  Collection of terminal programs.
 
 - [ASCIIOrbit](https://github.com/yourusername/ASCIIOrbit)  
   A solar system built straight into your terminal.
