@@ -2,7 +2,7 @@
   
 # Repository-Directory
 
-A categorized index of my projects, experiments, and programming work.
+A categorized index of my projects and programming work.
 
 </div>
 
