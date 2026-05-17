@@ -8,14 +8,15 @@ A categorized index of my projects and programming work.
 
 # Terminal Programs
 
-- [Terminal-Art](https://github.com/yourusername/Terminal-Art)  
-  Collection of terminal programs.
-
 - [ASCIIOrbit](https://github.com/yourusername/ASCIIOrbit)  
   A solar system built straight into your terminal.
 
 - [RogueTerminal](https://github.com/yourusername/RogueTerminal)  
-  Java ASCII RPG inspired by an OOP workshop.
+  A RPG for when ur bored and want a little adventure
+
+- [Periodic Table](https://github.com/Lokonco/Periodic-Table)  
+  A periodic table for your terminal
+  
 
 ---
 
