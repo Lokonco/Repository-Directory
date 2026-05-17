@@ -8,10 +8,10 @@ A categorized index of my projects and programming work.
 
 # Terminal Programs
 
-- [ASCIIOrbit](https://github.com/yourusername/ASCIIOrbit)  
+- [ASCIIOrbit](https://github.com/lokonco/ASCIIOrbit)  
   A solar system built straight into your terminal.
 
-- [RogueTerminal](https://github.com/yourusername/RogueTerminal)  
+- [RogueTerminal](https://github.com/lokonco/RogueTerminal)  
   A RPG for when ur bored and want a little adventure
 
 - [Periodic Table](https://github.com/Lokonco/Periodic-Table)  
@@ -27,14 +27,14 @@ A categorized index of my projects and programming work.
 
 # Computer Graphics / Rendering
 
-- [TinyRayCaster](https://github.com/yourusername/TinyRayCaster)  
+- [TinyRayCaster](https://github.com/lokonco/TinyRayCaster)  
   Simple raycasting experiments in C++(Not Complete).
 
 ---
 
 # Web Development
 
-- [NullType](https://github.com/yourusername/NullType)  
+- [NullType](https://github.com/lokonco/NullType)  
   Terminal-themed typing website.
 
 
@@ -45,36 +45,36 @@ A categorized index of my projects and programming work.
 
 # Cryptography
 
-- [Cyphers-or-ciphers](https://github.com/yourusername/Cyphers-or-ciphers)  
+- [Cyphers-or-ciphers](https://github.com/lokonco/Cyphers-or-ciphers)  
   Implementations of various cryptographic ciphers.
 
 ---
 
 # Hackathon Projects
 
-- [PyCAD-ShellHacks2025](https://github.com/yourusername/PyCAD-ShellHacks2025)  
+- [PyCAD-ShellHacks2025](https://github.com/lokonco/PyCAD-ShellHacks2025)  
   Python-powered CAD and sketching environment.
 
 # Educational
 
-- [JavaRPG-IntroToOOP-ws](https://github.com/yourusername/JavaRPG-IntroToOOP-ws)  
+- [JavaRPG-IntroToOOP-ws](https://github.com/lokonco/JavaRPG-IntroToOOP-ws)  
   Educational project for teaching OOP concepts.
 
-- [Problem-Vault](https://github.com/yourusername/Problem-Vault)  
+- [Problem-Vault](https://github.com/lokonco/Problem-Vault)  
   Solutions to programming and algorithm problems.
 
 ---
 
 # Archives
 
-- [CodeAttic](https://github.com/yourusername/CodeAttic)  
+- [CodeAttic](https://github.com/Lokonco/CodeAttic)  
   Collection of projects written in multiple languages.
 
 ---
 
 # Code for Video games
 
-- [JOP-Code](https://github.com/yourusername/JOP-Code)  
+- [JOP-Code](https://github.com/lokonco/JOP-Code)  
   Programming automation and simulation game experiments.
 
 
