@@ -37,8 +37,8 @@ A categorized index of my projects and programming work.
 - [NullType](https://github.com/lokonco/NullType)  
   Terminal-themed typing website.
 
-- [Typnique](https://lokonco.github.io/Typnique/)  
-  Terminal-themed typing website.
+- [Typnique](https://typnique.web.app/)\
+  A game where you type math equations using the Typst markup language
 
 - [Flip Clock Timer](https://github.com/Lokonco/CodeAttic/tree/main/Html-Css-Js-Ts/FlipClockTimer)  
   A countdown timer with a flip-clock animation
